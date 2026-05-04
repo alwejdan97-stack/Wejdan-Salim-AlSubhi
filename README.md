@@ -10,12 +10,10 @@
 # Wejdan-Salim-AlSubhi
 ## About Me
 
-- :telescope: I'm currently working on **[Your Project Name]**
-- :seedling: I'm learning **[Technologies you're learning]**
-- :dancers: I'm looking to collaborate on **Open Source Projects**
-- :speech_balloon: Ask me about **Java, HTML, JavaScript, Python, etc.**
+- :seedling: I'm learning **OOP**
+- :speech_balloon: Ask me about **Java, HTML, JavaScript, etc.**
 - :mailbox: How to reach me: **alwejdan97@gmail.com**
-- :zap: Fun fact: **[Interesting fact about you]**
+- :zap: Fun fact: **Solving JAVA tasks**
 
 <!-- Connect with me -->
 ## :globe_with_meridians: Connect With Me
