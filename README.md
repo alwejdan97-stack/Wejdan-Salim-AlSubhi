@@ -21,7 +21,7 @@
 ## :globe_with_meridians: Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/wejdan-alsubhi-131b52284?" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
