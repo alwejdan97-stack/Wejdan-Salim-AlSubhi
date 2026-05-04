@@ -87,8 +87,6 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
   </a>
-
-</div>
 </div>
 
 <!-- GitHub Stats -->
