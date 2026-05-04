@@ -2,7 +2,7 @@
 
 <!-- Profile views counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=[alwejdan97-stack]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <!-- About Me Section -->
@@ -58,48 +58,37 @@
 
 <div align="center">
   <!-- Java Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
-  
-  <!-- HTML Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
-  
-  <!-- Other Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,react,nodejs" />
 </div>
 
 <!-- GitHub Stats -->
 ## :bar_chart: GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/app/top-langs/?username=[your-username]&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[alwejdan97-stack]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/app/top-langs/?username=[alwejdan97-stack]&layout=compact&theme=radical" />
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[alwejdan97-stack]&theme=radical" />
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&theme=radical" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[alwejdan97-stack]&theme=radical" />
 
 <!-- Trophy Case -->
 ## :trophy: GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[your-username]&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[alwejdan97-stack]&theme=radical&row=1&column=6" />
 </div>
 
 <!-- Snake Game Contribution Grid -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[alwejdan97-stack]/[alwejdan97-stack]/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[alwejdan97-stack]/[alwejdan97-stack]/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[alwejdan97-stack]/[alwejdan97-stack]/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- Support Me -->
